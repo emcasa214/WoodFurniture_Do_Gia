@@ -1,0 +1,6 @@
+@WoodFurniture_HostAddress = http://localhost:5138
+
+GET {{WoodFurniture_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
